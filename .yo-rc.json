@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "report-wp",
+    "libraryId": "80f7569b-0569-4aad-b668-cd83cecbaf8e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "report-wp",
+    "solutionShortDescription": "report-wp description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "report-wp-client-side-solution",
+    "id": "80f7569b-0569-4aad-b668-cd83cecbaf8e",
+    "version": "1.0.0.2",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "report-wp description"
+      },
+      "longDescription": {
+        "default": "report-wp description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "report-wp Feature",
+        "description": "The feature that activates elements of the report-wp solution.",
+        "id": "5aad3c04-ae93-4e51-ac90-61c43b2c372b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/report-wp.sppkg"
+  }
+}

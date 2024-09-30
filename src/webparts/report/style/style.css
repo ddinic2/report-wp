@@ -1,0 +1,6 @@
+.report-list > li {
+    list-style-type: none;
+}
+.report-list{
+    padding-left: 0;
+}
